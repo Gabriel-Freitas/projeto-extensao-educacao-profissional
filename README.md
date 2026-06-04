@@ -14,11 +14,11 @@ Objetivo:
 Produzir indicadores e visualizações que permitam interpretar desigualdades estruturais relacionadas à formação profissional e inclusão educacional.
 
 Ferramentas Utilizadas:
-Excel
-Power BI
-GitHub
-Dados públicos do INEP
-Python
+Excel;
+Power BI;
+GitHub;
+Dados públicos do INEP;
+Python;
 
 Fonte de Dados:
 Microdados do Censo Escolar – INEP: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-escolar
