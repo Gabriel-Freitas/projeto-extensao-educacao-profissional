@@ -18,9 +18,10 @@ Excel
 Power BI
 GitHub
 Dados públicos do INEP
+Python
 
 Fonte de Dados:
-Microdados do Censo Escolar – INEP
+Microdados do Censo Escolar – INEP: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-escolar
 
 Status:
 
