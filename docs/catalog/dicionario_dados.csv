@@ -1,0 +1,26 @@
+Nome_da_Coluna;Tipo_de_Dado;Descricao
+Código da Escola;object;Código único de identificação da escola (Inep/Censo Escolar).
+Nome da Escola;object;Nome da instituição de ensino
+Dependência Administrativa;object;Instância administrativa à qual a escola está subordinada, na esfera federal, estadual, municipal ou privada
+Aprovação;object;Taxa de aprovação total de alunos do ensino médio de escolas que oferecem educação profissional
+Reprovação;object;Taxa de reprovação total de alunos do ensino médio de escolas que oferecem educação profissional
+Abandono;object;Taxa de abandono total dos estudos de alunos do ensino médio de escolas que oferecem educação profissional
+NO_REGIAO;object;Região do Brasil na qual a escola se localiza
+SG_UF;object;União federativa na qual a escola se localiza
+TP_LOCALIZACAO;object;Tipo de localização na qual a escola se encontra(rural ou urbana)
+IN_INTERNET_ALUNOS;int32;Indicador de internet para alunos: 1 para Existente, 0 para Inexistente.
+IN_INTERNET_APRENDIZAGEM;int32;Indicador de internet para uso no processo de aprendizagem: 1 para Existente, 0 para Inexistente.
+IN_LABORATORIO_INFORMATICA;int32;Presença de laboratório de informática: 1 para Existente, 0 para Inexistente
+IN_BIBLIOTECA;int32;Presença de biblioteca: 1 para Existente, 0 para Inexistente
+IN_BANHEIRO;int32;Presença de banheiro: 1 para Existente, 0 para Inexistente
+IN_AGUA_POTAVEL;int32;Disponibilidade de água potável: 1 para Existente, 0 para Inexistente
+Energia;int32;Indicador de energia elétrica: 1 para Existente, 0 para Inexistente.
+Esgoto;int32;Indicador de esgoto sanitário: 1 para Existente, 0 para Inexistente.
+IN_BANHEIRO_PNE;int32;Presença de banheiros adaptados para pessoas com deficiência física e/ou motora: 1 para Existente, 0 para Inexistente.
+IN_ACESSIBILIDADE_CORRIMAO;int32;Presença de corrimão para o auxílio na locomoção de pessoas com deficiência física e/ou motora: 1 para Existente, 0 para Inexistente.
+IN_ACESSIBILIDADE_ELEVADOR;int32;Presença de elevadores para o auxílio na locomoção de pessoas com deficiência: 1 para Existente, 0 para Inexistente.
+IN_ACESSIBILIDADE_VAO_LIVRE;int32;Presença de vão livre para facilitar na locomoção de pessoas com deficiência: 1 para Existente, 0 para Inexistente.
+IN_ACESSIBILIDADE_RAMPAS;int32;Presença de rampa para o auxílio na locomoção de pessoas com deficiência física e/ou motora: 1 para Existente, 0 para Inexistente.
+IN_ACESSIBILIDADE_SINAL_SONORO;int32;Recurso sonoro de acessibilidade: 1 para Existente, 0 para Inexistente.
+IN_ACESSIBILIDADE_SINAL_TATIL;int32;Recurso tatil de acessibilidade: 1 para Existente, 0 para Inexistente.
+IN_ACESSIBILIDADE_SINAL_VISUAL;int32;Recurso visual de acessibilidade: 1 para Existente, 0 para Inexistente.
