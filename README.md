@@ -23,6 +23,7 @@ Biblioteca Pandas;
 
 Fonte de Dados:
 Microdados do Censo Escolar – INEP: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-escolar
+
 Taxas de Rendimento Escolar - INEP: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/taxas-de-rendimento-escolar
 
 Evolução do Escopo
